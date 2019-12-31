@@ -3,7 +3,7 @@ OUT
 ./OUT
 运行后挂在双向链表后
 
-由内核组织    PCB<--->PCB
+由内核组织    PCB<--->PCB。。
 
 pid_t fork（void）；
 pid_t gfork ==>int类型
